@@ -1,10 +1,10 @@
-package com.example.IceCool;
+package com.example.IceCoolCal;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class IceCoolApplicationTests {
+class IceCoolCalApplicationTests {
 
 	@Test
 	void contextLoads() {
