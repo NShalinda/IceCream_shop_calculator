@@ -1,1 +1,3 @@
-# IceCream_shop_calculator
+# Thumbtest-RebootRebels
+
+Hi, This is the Readme File for ThumbTest
